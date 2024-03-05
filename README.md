@@ -1,5 +1,3 @@
-ff
-
 # QR Code Generator for Saving Passwords Locally
 
 This Python script allows users to generate a QR code for saving passwords locally. Users can input their username and password, choose whether to customize the QR code background color, specify the background color if customization is chosen, and provide a file name to save the QR code image.
